@@ -1,2 +1,4 @@
 # D-project
-Run drone with python3
+Run Tello with python3
+
+Python3でTelloを動かします
