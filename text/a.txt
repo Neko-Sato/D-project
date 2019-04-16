@@ -1,0 +1,12 @@
+curve 200 100 50 400 0 0 60
+sleeping 12.0
+curve -200 -100 -50 -400 0 0 60
+sleeping 12.0
+curve 200 100 50 400 0 0 60
+sleeping 12.0
+curve -200 -100 -50 -400 0 0 60
+sleeping 12.0
+curve 200 100 50 400 0 0 60
+sleeping 12.0
+curve -200 -100 -50 -400 0 0 60
+sleeping 12.0

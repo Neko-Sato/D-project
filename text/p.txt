@@ -1,0 +1,24 @@
+#ëÂçuã`é∫Ç©ÇÁ318ã≥é∫Ç÷
+takeoff
+sleeping 6.0
+up 50
+sleeping 5.0
+forward 325
+sleeping 5.0
+forward 325
+sleeping 5.0
+cw -90
+sleeping 5.0
+forward 230
+sleeping 5.0
+cw -90
+sleeping 5.0
+forward 150
+sleeping 5.0
+#318ã≥é∫Ç…Çƒ
+cw 90
+sleeping 8.0
+left 500
+sleeping 8.0
+curve 150 -50 0 250 -250 0 60
+sleeping 8.0
